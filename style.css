@@ -1,0 +1,47 @@
+body{
+    background-image: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+}
+
+#mainbody{
+    margin-left: 40%;
+    margin-top: 0%;
+    background:whitesmoke;
+    width: 340px;
+    height: 470px; 
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #b6a9a9;
+}
+
+#screen{
+    margin-left: 19px;
+    margin-top: 11px;
+    width: 90%;
+    height: 70px;
+    border-width: 5px;
+    border-color:silver;
+    border-radius: 8px;
+    font-size:30px;
+    font-family: sans-serif;
+    pointer-events: none;
+}
+
+button{
+    width: 68px;
+    height: 59px;
+    margin-top: 12px;
+    background-color: gainsboro;
+    margin-left: 12px;
+    border-radius: 20px;
+    border: silver;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color:lightgray;
+}
+
+
